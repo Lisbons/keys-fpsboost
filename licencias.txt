@@ -1,2 +1,2 @@
 MI_PC_PRUEBA
-%MY_HWID%
+
